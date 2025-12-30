@@ -67,3 +67,6 @@ applications as **Approved** or **Not Approved** based on applicant data.
 ### 📊 Dataset View
 ![Dataset](images/dataset.png)
 
+
+## Live App
+https://qwm3tbcbwgwktr5reul23n.streamlit.app/
