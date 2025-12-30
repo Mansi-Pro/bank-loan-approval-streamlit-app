@@ -52,3 +52,18 @@ applications as **Approved** or **Not Approved** based on applicant data.
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/bank-loan-approval-streamlit-app
+
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+![Home Page](images/home.png)
+
+### 📝 User Registration Page
+![Signup Page](images/signup.png)
+
+### 🧾 Loan Application Form
+![Loan Form](images/form.png)
+
+### 📊 Dataset View
+![Dataset](images/dataset.png)
+
